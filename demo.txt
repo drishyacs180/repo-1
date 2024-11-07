@@ -1,3 +1,5 @@
-This is a text file created in github.
+This is a text file created in GitHub.
 Git is the distributed version control system.
-welcome to github
+welcome to GitHub
+command line tool
+
